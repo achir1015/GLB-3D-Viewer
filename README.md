@@ -1,4 +1,4 @@
-# GLB-3D-Viewer GLB 立體檢視器
+# GLB-3D-Viewer GLB 立體檢視器 https://achir1015.github.io/GLB-3D-Viewer/
 GLB 立體檢視器目前具備的功能：
 
 檢視與操作
